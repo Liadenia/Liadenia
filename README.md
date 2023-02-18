@@ -8,7 +8,7 @@ Liadenia/Liadenia is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Liadenia /&fontColor=fff&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Liadenia /&fontColor=ededed&fontSize=60)
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liadenia&layout=compact">
