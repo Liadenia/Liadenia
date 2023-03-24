@@ -12,15 +12,17 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Liadenia&fontColor=ededed&fontSize=60)
-
+<!-- <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=liadenia&theme=tokyonight&show_icons=true" width="42%" />
+</a> -->
 <br>
 <br>
 <div align="center">
-	👋 Hi, I’m @Liadenia
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=1F9715&center=true&width=435&lines=%F0%9F%91%8B+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%9B%B9+%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94%EB%A5%BC+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94;%EA%BF%88%EA%BE%B8%EB%8A%94+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88+%EA%B9%80%EC%83%81%EB%AF%B8%EC%9E%85%EB%8B%88%EB%8B%A4.%F0%9F%A5%B0" alt="Typing SVG" /></a>
 	<br>
 	👀 I’m interested in Web design and Art. I'm currently studying and working hard to become a web publisher.
-	<br>
-	🌱 저는 웹디자인과 미술에 관심이 많습니다. 현재는 웹퍼블리셔를 목표로 공부중입니다.
+	<br?
+	🌱 저는 웹디자인과 미술에 관심이 많습니다. 현재는 웹퍼블리셔를 목표로 공부중입니다
 	<br>
 	<br>
 </div>
