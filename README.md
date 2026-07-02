@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31CFB8&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%9B%B9+%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%EC%9D%84+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94;+%EA%BF%88%EA%BE%B8%EB%8A%94+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88+%EA%B9%80%EC%83%81%EB%AF%B8%EC%9E%85%EB%8B%88%EB%8B%A4.%F0%9F%A5%B0" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88+%EA%B9%80%EC%83%81%EB%AF%B8+%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 	<br>
 	👀 I am a UI/UX designer with a strong focus on end-to-end product design.
 	<br>
